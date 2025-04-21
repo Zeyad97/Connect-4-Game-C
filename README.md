@@ -1,2 +1,16 @@
-# Connect-4-Game-C
- This is a simple Connect 4 game built in C with basic AI. The goal is to get four of your pieces in a row before your opponent. You can play either against another player or the AI, which makes random moves.  Features:  Play against another player or AI  Written in C  Simple console-based game
+# Connect 4 Game with AI
+
+This is a simple **Connect 4** game implemented in **C** with a basic AI.
+
+## How to Play
+The game is a two-player strategy game where the goal is to get four of your pieces in a row (horizontal, vertical, or diagonal).
+
+## AI
+The AI makes random moves and is designed for beginner-level play.
+
+## Instructions
+To play, run the `connect4.c` file in a C compiler.
+
+## Files
+- `connect4.c` - The main game logic and AI.
+- `README.md` - This file.
